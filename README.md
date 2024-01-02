@@ -74,9 +74,3 @@ This repository contains a Dash web application for visualizing sales and profit
 ## License
 
 This Project is unlicensed
-
-## Author
-
-[Your Name]
-
-Feel free to customize this README according to your project details, and provide appropriate attribution for the authorship and licensing information.
