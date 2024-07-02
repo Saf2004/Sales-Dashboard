@@ -9,7 +9,7 @@ This repository contains a Dash web application for visualizing sales and profit
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/sales-dashboard.git
+   git clone https://github.com/Saf2004/sales-dashboard.git
    ```
 
 2. Navigate to the project directory:
